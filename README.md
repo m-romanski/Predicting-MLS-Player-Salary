@@ -43,6 +43,8 @@ I trained the data on three different predictive models with several iterations 
 The reason for this can be explained by the model’s r2 score, which sits at .53. As explained before, this means that the statistic features explain just about half of the variance in a player’s salary. 
 
 ## Permutation Importances
+![Sheet 2](https://github.com/m-romanski/Capstone-Project/assets/113048559/1c3691f3-ca42-4bd7-a9a2-30ffa834d315)
+
 
 I extracted the 10 most important features to the Random Forest regression. These features, when individually removed from the model, account for the largest increase in Mean Absolue Error. The bubbles in Orange represent features that were already a part of the dataset while the bubbles in black represent features that were added by me to help the performance of the model. 
 
