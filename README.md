@@ -5,7 +5,7 @@ Major League Soccer Player's Association(MLSPA) has been keeping salary data on 
 
 ## Business Problem
 
-MLS has growing rapidly and gaining in popularity, increasing their number of teams from just 13 in 2007 to 29 today. Likewise, the average team revenue increased from 37 million USD in 2008 to 579 million USD in 2022. https://huddleup.substack.com/p/how-lafc-became-major-league-soccers This also saw an increase in player salary over the years. In order to figure out what a player's salary should be, I analyzed a player's statistics by year in order to come up with recommendations to further bolster future analysis.
+MLS has been growing rapidly and gaining in popularity, increasing their number of teams from just 13 in 2007 to 29 today. Likewise, the average team revenue increased from 37 million USD in 2008 to 579 million USD in 2022. https://huddleup.substack.com/p/how-lafc-became-major-league-soccers This also saw an increase in player salary over the years. In order to figure out what a player's salary should be, I analyzed a player's statistics by year in order to come up with recommendations to further bolster future analysis.
 
 ## Data Understanding
 
